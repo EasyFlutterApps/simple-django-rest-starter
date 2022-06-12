@@ -1,0 +1,75 @@
+{
+  "cSpell.words": [
+    "allauth",
+    "ANYMAIL",
+    "authtoken",
+    "autocrop",
+    "Codechef",
+    "collectstatic",
+    "colorspace",
+    "corsheaders",
+    "createsuperuser",
+    "gmailapi",
+    "mailauth",
+    "MAILJET",
+    "makemigrations",
+    "mptt",
+    "runserver",
+    "sendgrid",
+    "simplejwt",
+    "smedia",
+    "socialaccount",
+    "virtualenv",
+    "WAGTAILUSERS",
+    "xsendfile"
+  ],
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "-",
+      "color": "#E60965",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#14C38E",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
+}
