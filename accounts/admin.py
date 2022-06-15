@@ -42,6 +42,7 @@ class CustomUserAdmin(UserAdmin):
         'username', 'date_joined', 'last_login',
         'date_of_birth', 'phone', 'photo_preview'
     )
+    save_on_top: bool = True
 
     """
     Override the original get_readonly_fields method and

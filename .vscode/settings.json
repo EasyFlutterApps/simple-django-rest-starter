@@ -25,6 +25,7 @@
   ],
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
+  "python.linting.pylintArgs": ["--disable=W0614"],
   "better-comments.tags": [
     {
       "tag": "!",

@@ -3,3 +3,4 @@ disable=
     C0114, # missing-module-docstring
     C0115, # missing-function-docstring
     C0116, # missing-class-docstring
+    W0614, # unused-import
