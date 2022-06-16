@@ -90,6 +90,11 @@ source venv/bin/activate
     SENDGRID_API_KEY = os.environ['SEND_GRID_API_KEY']
     SENDGRID_SANDBOX_MODE_IN_DEBUG = False
 
+### Email Verified Redirect URL
+
+    ACCOUNT_CONFIRM_EMAIL_ON_GET = True
+    LOGIN_URL = 'http://localhost:8000/email-verified/'
+
 ## Deployment 🚀
 
 ### Heroku
