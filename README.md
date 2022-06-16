@@ -42,6 +42,7 @@ System Requirements:
 - SendGrid API Key
 
 ## API Documentation 📚
+https://documenter.getpostman.com/view/11585991/UzBjsneE
 
 
 ## Virtual Environment ⚡️
